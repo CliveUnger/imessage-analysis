@@ -1,0 +1,6 @@
+.venv
+*.db*
+*.csv
+*.json
+.DS_Store
+vcards

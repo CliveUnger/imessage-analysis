@@ -1,0 +1,3 @@
+pyobjc
+vobject
+pandas
